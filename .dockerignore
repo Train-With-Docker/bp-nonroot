@@ -1,0 +1,9 @@
+node_modules
+.git
+.gitignore
+README.md
+*.md
+Dockerfile.*
+!Dockerfile.insecure
+!Dockerfile.secure
+!Dockerfile.template
